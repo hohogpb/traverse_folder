@@ -1,5 +1,4 @@
 # traverse_folder
-
 [![npm](https://img.shields.io/npm/v/traverse_folder)](https://www.npmjs.com/package/traverse_folder)
 [![downloads](https://img.shields.io/npm/dw/traverse_folder)](https://www.npmjs.com/package/traverse_folder)
 
