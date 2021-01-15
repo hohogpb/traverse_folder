@@ -22,6 +22,14 @@ cosnt items = traverse_folder('models');
 
 ```
 
+or your can add global and use "dirtree" cmd
+```sh
+npm install traverse_folder -g
+
+cmd> dirtree .
+```
+
+
 ```
 ├─index.js
 ├─sequelize.js
