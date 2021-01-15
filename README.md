@@ -1,7 +1,10 @@
 # traverse_folder
-traverse folder in js
+
 [![npm](https://img.shields.io/npm/v/traverse_folder)](https://www.npmjs.com/package/traverse_folder)
 [![downloads](https://img.shields.io/npm/dw/traverse_folder)](https://www.npmjs.com/package/traverse_folder)
+
+traverse folder in js
+
 ## usage
 
 ```sh
@@ -12,7 +15,7 @@ or
 yarn add traverse_folder
 ```
 
-```
+```javascript
 const traverse_folder = require('traverse_folder')
 traverse_folder('models');
 // or
@@ -52,7 +55,7 @@ cosnt items = traverse_folder('models');
 ```
 
 examples:
-```
+```javascript
 const traverse_folder = require('traverse_folder')
 
 // your can
