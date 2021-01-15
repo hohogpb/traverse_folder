@@ -1,6 +1,6 @@
 {
   "name": "traverse_folder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "traverse folder in js",
   "main": "index.js",
   "scripts": {
